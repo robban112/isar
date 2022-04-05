@@ -7,7 +7,7 @@ core_version=`cat ../../CORE_VERSION`
 
 cd $tmp_dir
 
-git clone https://github.com/isar/isar-core.git
+git clone https://github.com/robban112/isar-core.git
 cd isar-core
 git checkout $core_version
 git submodule update --init
