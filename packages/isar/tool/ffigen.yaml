@@ -1,5 +1,8 @@
 name: IsarCoreBindings
 output: "lib/src/native/bindings.dart"
+
+llvm-path: 
+    - "/usr/local/Homebrew/opt/llvm" 
 headers:
   entry-points:
     - "isar-dart.h"
