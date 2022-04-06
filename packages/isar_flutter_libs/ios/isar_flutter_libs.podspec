@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'isar_flutter_libs'
-  s.version          = '1.0.0'
+  s.version          = '2.2.2'
   s.summary          = 'Flutter binaries for the Isar Database. Needs to be included for Flutter apps.'
   s.homepage         = 'https://isar.dev'
   s.license          = { :file => '../LICENSE' }
